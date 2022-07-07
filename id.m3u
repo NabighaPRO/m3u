@@ -458,7 +458,7 @@ https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3
 #EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="TV Nasional Indonesia", ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="TV Nasional Indonesia", INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657195870~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=1424f5ea3ceb89d9e0c0f2f9171c759f3dc6bb60bea3ff725ae95ebc29dbdef6/vp9/205_stream.mpd
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6ebea830-ef77-11ec-a062-0327b42a1e3b/3332153/584840006.jpeg" group-title="TV Nasional Indonesia", Indosiar
 https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="TV Nasional Indonesia", SCTV
