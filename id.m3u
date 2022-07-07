@@ -457,8 +457,8 @@ https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="TV Nasional Indonesia", INDOSIAR
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/6ebea830-ef77-11ec-a062-0327b42a1e3b/3332153/584840006.jpeg" group-title="TV Nasional Indonesia", Indosiar
-https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="TV Nasional Indonesia", INDOSIAR HD
+https://etslive-2-vidio-com.akamaized.net/exp=1657196219~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=42a8520ded12e0c3cb0d72eb6cfa8991969917450dc7e656922c62f2ea21b216/vp9/205_stream.mpd
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="TV Nasional Indonesia", SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="TV Nasional Indonesia", Trans TV
