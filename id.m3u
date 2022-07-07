@@ -1,5 +1,4 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/cf598390-eebf-11ec-8100-43b905e8ed56/3329295/584341183.jpeg" group-title="Lokal Daerah", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Lokal Daerah", Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -53,7 +52,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wy7BxxX.png" group-title="Lokal Daerah", Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322992/583289452.jpeg" group-title="Movie", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3317750/582312378.png" group-title="Movie", AXN
 http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/3794.m3u8
@@ -197,7 +195,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="World tv", CCTV-4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322993/583289453.jpeg" group-title="World tv", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3317750/582312374.png" group-title="World tv", tVN
 http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/3672.m3u8
@@ -211,7 +208,6 @@ http://208.86.19.13:81/711.stream/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322993/583703573.jpeg" group-title="World tv", DW
 https://etslive-2-vidio-com.akamaized.net/exp=1655453005~acl=/hls-p/ingest_5075_*/*~hmac=56440c3cbe5051a93a244f128089361bbd2e5a08eececbdda33fefa5e1e93d88/hls-p/ingest_5075_1080p/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3323980/583363853.jpeg" group-title="Animal life", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3323980/583363751.png" group-title="Animal life", Animal planet
 https://delivery.macan.network/stream/id_animalplanet/playlist.m3u8?token=rqvntc0&v=20200807
@@ -223,7 +219,6 @@ http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/3584.m3u8
 https://delivery.macan.network/stream/id_discoverychannel/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3323980/583364728.png" group-title="Animal life", Nat geo wild
 https://delivery.macan.network/stream/id_natgeowild/playlist.m3u8?token=rqvntc0&v=20200807
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3328138/584179505.jpeg" group-title="Knowledge", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/9y46z6n/Discovery-channel-home-tv.png" group-title="Knowledge", DISCOVERY CHANNEL
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/212.m3u8
@@ -251,7 +246,6 @@ http://103.157.26.154:25461/live/relaxtv/ywu27tesf/222.m3u8
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/223.m3u8
 #EXTINF: -1 tvg-name="XPLORE" tvg-logo="https://i.ibb.co/T4GrgZS/Xplore.png" group-title="Knowledge", XPLORE
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/224.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3328139/584179507.jpeg" group-title="Kids", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-name="NICK JUNIOR" tvg-logo="https://i.ibb.co/3fXsgzp/nickjr-home-tv.png" group-title="Kids", NICK JUNIOR
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/225.m3u8
@@ -283,7 +277,6 @@ http://103.157.26.154:25461/live/relaxtv/ywu27tesf/238.m3u8
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/239.m3u8
 #EXTINF: -1 tvg-name="Baby First" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="Kids", Baby First
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/240.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3328157/584175929.jpeg" group-title="Sports 1", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3317750/582312383.png" group-title="Sports 1", SPOTV 1
 http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/3844.m3u8
@@ -385,7 +378,6 @@ http://makanja.xyz/beleng/premium33/chunks.m3u8
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/248.m3u8
 #EXTINF: -1 tvg-name="WWE" tvg-logo="https://i.ibb.co/X2Q7s2r/Wwe.png" group-title="Sports 1", WWE
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/250.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/cf598390-eebf-11ec-8100-43b905e8ed56/3329341/584341182.jpeg" group-title="Music", Subscribe bang wijaya channel
 https://api.mp4.to/static/downloads/6a2f1a16ca9a4495a6d35ccb11700279/km_20220616_1080p.m3u8
 #EXTINF: -1 tvg-id="maleo.id" tvg-logo="https://i.imgur.com/5BMfuS5.png" group-title="Music", Dens ShowBiz
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
